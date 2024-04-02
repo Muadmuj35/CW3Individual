@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "topic": "Computer Science",
+        "location": "Manchester",
+        "price": 600,
+        "image": "images/ComputerScience.jpeg",
+        "space": 23,
+        "icon": "icon-computer-science",
+        "rating": 3
+    },
+    {
+        "id": 2,
+        "topic": "Math",
+        "location": "Edinburgh",
+        "price": 400,
+        "image": "images/Math.jpeg",
+        "space": 24,
+        "icon": "icon-math",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "topic": "Music",
+        "location": "Liverpool",
+        "price": 250,
+        "image": "images/Music.jpeg",
+        "space": 25,
+        "icon": "icon-music",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "topic": "Chemistry",
+        "location": "Glasgow",
+        "price": 200,
+        "image": "images/Chemistry.jpeg",
+        "space": 26,
+        "icon": "icon-chemistry",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "topic": "Biology",
+        "location": "London",
+        "price": 300,
+        "image": "images/Biology.jpeg",
+        "space": 27,
+        "icon": "icon-biology",
+        "rating": 2
+    },
+    {
+        "id": 6,
+        "topic": "History",
+        "location": "Stratford",
+        "price": 150,
+        "image": "images/History.jpeg",
+        "space": 28,
+        "icon": "icon-history",
+        "rating": 3
+    },
+    {
+        "id": 7,
+        "topic": "Geography",
+        "location": "Cardiff",
+        "price": 400,
+        "image": "images/Geography.jpeg",
+        "space": 29,
+        "icon": "icon-geography",
+        "rating": 4
+    },
+    {
+        "id": 8,
+        "topic": "Philosophy",
+        "location": "Tottenham",
+        "price": 250,
+        "image": "images/Philosophy.jpeg",
+        "space": 23,
+        "icon": "icon-philosophy",
+        "rating": 5
+    },
+    {
+        "id": 9,
+        "topic": "Engineering",
+        "location": "Birmingham",
+        "price": 200,
+        "image": "images/Engineering.jpeg",
+        "space": 24,
+        "icon": "icon-engineering",
+        "rating": 3
+    },
+    {
+        "id": 10,
+        "topic": "Astronomy",
+        "location": "Glasgow",
+        "price": 300,
+        "image": "images/Astronomy.jpeg",
+        "space": 25,
+        "icon": "icon-astronomy",
+        "rating": 4
+    }
+]
